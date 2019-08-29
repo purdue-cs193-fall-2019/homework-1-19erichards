@@ -1,9 +1,10 @@
 ## Evan's First CS 193 Homework
 
 Some nice things about CS 193
--The Intructors are nice, they don't care if you can remember thier names
--It actually delivers usefull information to it's students
--It doesn't take much time
+
+- The Intructors are nice, they don't care if you can remember thier names
+- It actually delivers usefull information to it's students
+- It doesn't take much time
 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
